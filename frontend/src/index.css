@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.wrapper {
+  width: 1300px;
+  margin: 0px auto;
+
+}
