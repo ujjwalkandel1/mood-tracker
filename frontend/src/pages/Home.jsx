@@ -10,6 +10,9 @@ function Home() {
                 <button className="mt-6 px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg shadow-md hover:bg-purple-700 transition">
                     Add Your Mood 😊
                 </button>
+                <button className="mt-6 px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg shadow-md hover:bg-purple-700 transition">
+                    Add Your Condition
+                </button>
             </Link>
         </div>
     );
